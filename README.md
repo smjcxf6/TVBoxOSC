@@ -1,9 +1,9 @@
 # TVBoxOSC
 
-![Build](https://shields.io/github/actions/workflow/status/xisohi/TVBoxOSC/test.yml?branch=master&logo=github&label=Build)
-[![Channel](https://img.shields.io/badge/Follow-Gitee-blue.svg?logo=Gitee)](https://gitee.com/xisohi/XHYSosc/releases)
-[![Download](https://img.shields.io/github/v/release/xisohi/TVBoxOSC?color=orange&logoColor=orange&label=Download&logo=DocuSign)](https://github.com/xisohi/TVBoxOSC/releases/latest) 
-[![Total](https://shields.io/github/downloads/xisohi/TVBoxOSC/total?logo=Bookmeter&label=Counts&logoColor=yellow&color=yellow)](https://github.com/xisohi/TVBoxOSC/releases)
+![Build](https://shields.io/github/actions/workflow/status/smjcxf6/TVBoxOSC/test.yml?branch=master&logo=github&label=Build)
+[![Channel](https://img.shields.io/badge/Follow-Gitee-blue.svg?logo=Gitee)](https://gitee.com/smjcxf6/XHYSosc/releases)
+[![Download](https://img.shields.io/github/v/release/smjcxf6/TVBoxOSC?color=orange&logoColor=orange&label=Download&logo=DocuSign)](https://github.com/smjcxf6/TVBoxOSC/releases/latest) 
+[![Total](https://shields.io/github/downloads/smjcxf6/TVBoxOSC/total?logo=Bookmeter&label=Counts&logoColor=yellow&color=yellow)](https://github.com/smjcxf6/TVBoxOSC/releases)
 
 ## 版本说明
 
@@ -22,11 +22,11 @@
 
 ## Credits
 This repo relies on the following third-party projects:
-- [xisohi/TVBoxOSC](https://github.com/xisohi/TVBoxOSC)
-- [xisohi/XHYSTV](https://github.com/xisohi/XHYSTV) (Updated: dcadf551c77ac736f645ba2c1de908fefa279cf9)
-- [xisohi/XHYS](https://github.com/xisohi/XHYS) (Updated: dcadf551c77ac736f645ba2c1de908fefa279cf9)
-- [xisohi/XHTV/tree/lkys](https://github.com/xisohi/XHTV/tree/lkys) (Updated: 5af068f538122f1bea65446fe235c63dce71e32f)
-- [xisohi/XHTV/tree/fongmi](https://github.com/xisohi/XHTV/tree/fongmi) (Updated: b693518b0f3ba5da9b89ce21a3c9d7b89b5234f8)
-- [xisohi/XHTV/tree/release](https://github.com/xisohi/XHTV/tree/release) (Updated: 5dacb9dc895a41589e6ebc8a27867fea97d4b18d)
-- [xisohi/XHTV/tree/kitkat](https://github.com/xisohi/XHTV/tree/kitkat) (Updated: 173644e483a4df89e0be04e68c9abd85fd0ddb79)
-- [xisohi/CatPawOpen/tree/main](https://github.com/xisohi/CatPawOpen/tree/main) (Updated: c41c0c9614ef84f215fa5ba103fb919886c629d6)
+- [smjcxf6/TVBoxOSC](https://github.com/smjcxf6/TVBoxOSC)
+- [smjcxf6/XHYSTV](https://github.com/smjcxf6/XHYSTV) (Updated: dcadf551c77ac736f645ba2c1de908fefa279cf9)
+- [smjcxf6/XHYS](https://github.com/smjcxf6/XHYS) (Updated: dcadf551c77ac736f645ba2c1de908fefa279cf9)
+- [smjcxf6/XHTV/tree/lkys](https://github.com/smjcxf6/XHTV/tree/lkys) (Updated: 5af068f538122f1bea65446fe235c63dce71e32f)
+- [smjcxf6/XHTV/tree/fongmi](https://github.com/smjcxf6/XHTV/tree/fongmi) (Updated: b693518b0f3ba5da9b89ce21a3c9d7b89b5234f8)
+- [smjcxf6/XHTV/tree/release](https://github.com/smjcxf6/XHTV/tree/release) (Updated: 5dacb9dc895a41589e6ebc8a27867fea97d4b18d)
+- [smjcxf6/XHTV/tree/kitkat](https://github.com/smjcxf6/XHTV/tree/kitkat) (Updated: 173644e483a4df89e0be04e68c9abd85fd0ddb79)
+- [smjcxf6/CatPawOpen/tree/main](https://github.com/smjcxf6/CatPawOpen/tree/main) (Updated: c41c0c9614ef84f215fa5ba103fb919886c629d6)
