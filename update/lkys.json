@@ -1,6 +1,6 @@
 {
-  "code": "315",
-  "name": "3.1.5",
-  "desc": "1: Update build.gradle\n2: Signed-off-by: smjcxf6 <smj.love.c@gmail.com>\n3: Update strings.xml\n4: Update index.html\n5: Update build.gradle\n6: Update strings.xml\n",
+  "code": "314",
+  "name": "3.1.4",
+  "desc": "1: Update build.gradle\n",
   "apkurl": "https://ghfast.top/https://github.com/xisohi/TVBoxOSC/releases/download/lkys/{name}.apk"
 }
