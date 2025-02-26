@@ -25,9 +25,9 @@ jobs:
       fail-fast: false
       matrix:
         include:
-          - userName: smjcxf6
-            repoName: XHTV
-            branchName: lkys
+          - userName: smjcxf
+            repoName: TV
+            branchName: fongmi
 
     steps:
       - name: Checkout
