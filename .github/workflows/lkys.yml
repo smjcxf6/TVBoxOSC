@@ -68,7 +68,7 @@ jobs:
         if: ${{ env.commit }}
         working-directory: TVBoxOSC
         run: |
-          if [[ "${{ matrix.userName }}" == "smjcxf6" ]]; then
+          if [[ "${{ matrix.userName }}" == "smjcxf" ]]; then
             sed -i 's/TeamNewPipe/teamnewpipe/g' app/build.gradle
           fi
 
@@ -103,7 +103,7 @@ jobs:
           sed -i '$a\RELEASE_KEY_PASSWORD=xh8621989'         ./gradle.properties
 
       - name: Setup Java
-        if: ${{ env.commit && (matrix.userName == 'smjcxf6') }}
+        if: ${{ env.commit && (matrix.userName == 'smjcxf') }}
         uses: actions/setup-java@v3
         with:
           distribution: 'temurin'
