@@ -25,8 +25,8 @@ jobs:
       fail-fast: false
       matrix:
         include:
-          - userName: xisohi
-            repoName: XHTV
+          - userName: smjcxf
+            repoName: TV
             branchName: fongmi
 
     steps:
