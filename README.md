@@ -25,7 +25,7 @@ This repo relies on the following third-party projects:
 - [smjcxf6/TVBoxOSC](https://github.com/smjcxf6/TVBoxOSC)
 - [smjcxf6/XHYSTV](https://github.com/smjcxf6/XHYSTV) (Updated: ff5a5b1643dad3eee51c2bbb391be37b9fc7cc35)
 - [smjcxf6/XHYS](https://github.com/smjcxf6/XHYS) (Updated: dcadf551c77ac736f645ba2c1de908fefa279cf9)
-- [smjcxf6/XHTV/tree/lkys](https://github.com/smjcxf6/XHTV/tree/lkys) (Updated: d23a2f8e259ef59b03517a217d11d32cc18ec7c7)
+- [smjcxf6/XHTV/tree/lkys](https://github.com/smjcxf6/XHTV/tree/lkys) (Updated: 0d611e139bb21e0c00369fbce81030028bdff358)
 - [smjcxf6/XHTV/tree/fongmi](https://github.com/smjcxf6/XHTV/tree/fongmi) (Updated: 4de7add97c587ce79f9482343c53d587801e559d)
 - [smjcxf6/XHTV/tree/release](https://github.com/smjcxf6/XHTV/tree/release) (Updated: 5dacb9dc895a41589e6ebc8a27867fea97d4b18d)
 - [smjcxf6/XHTV/tree/kitkat](https://github.com/smjcxf6/XHTV/tree/kitkat) (Updated: 173644e483a4df89e0be04e68c9abd85fd0ddb79)
